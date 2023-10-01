@@ -1,13 +1,58 @@
-body{
-    background-color: blanchedalmond;
+body {
+  font-size: 2vw;
+  background-color: blanchedalmond;
 }
-navbar
-{
-    display: flex;
-    width: 100%;
-    align-items: center;
+.logo{
+  padding-left: 1vmax;
 }
-body div.navbar li
-{
-    list-style: none;
+body div.navbar {
+  display: flex;
+  align-items: center;
+  background-color: rgb(166, 202, 202);
+  justify-content: space-between;
+}
+body div.navbar ul {
+  display: flex;
+}
+body div.navbar li {
+  list-style: none;
+  padding-left: 3vmax;
+  padding-right: 3vmax;
+}
+body div.navbar ul li a {
+  color: black;
+
+  text-decoration: none;
+}
+body div.navbar ul li a:hover {
+  color: lavender;
+}
+footer {
+  background-color: rgb(94, 88, 88);
+  text-align: center;
+  padding: 5px;
+  color: aliceblue;
+}
+.profile {
+  padding-top: 2vb;
+  width: auto;
+  max-width: 25vw;
+  max-height: 25vw;
+}
+.layer1 {
+  display: flex;
+}
+.left {
+  display: block;
+  margin: auto;
+}
+.right {
+  padding: 2vb;
+  font-size: 2vw;
+  height: auto;
+}
+@media screen and (min-width: 601px) {
+  div.example {
+    font-size: 80px;
+  }
 }
