@@ -1,6 +1,14 @@
 body {
   font-size: 2vw;
-  background-color: blanchedalmond;
+  background-color: black;
+  color:azure;
+}
+.dark
+{
+    height: 2vw;
+    width: 2vw;
+    padding-left: 3vw;
+    padding-right: 3vw;
 }
 .logo{
   padding-left: 1vmax;
@@ -20,7 +28,7 @@ body div.navbar li {
   padding-right: 3vmax;
 }
 body div.navbar ul li a {
-  color: black;
+  color:cornsilk;
 
   text-decoration: none;
 }
