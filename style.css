@@ -1,0 +1,13 @@
+body{
+    background-color: blanchedalmond;
+}
+navbar
+{
+    display: flex;
+    width: 100%;
+    align-items: center;
+}
+body div.navbar li
+{
+    list-style: none;
+}
