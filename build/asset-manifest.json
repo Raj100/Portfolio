@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.20991058.css",
+    "main.js": "/static/js/main.33013a61.js",
+    "static/js/787.7da95b79.chunk.js": "/static/js/787.7da95b79.chunk.js",
+    "static/media/PrasangWebsite.png": "/static/media/PrasangWebsite.364f408e673edfa7ef80.png",
+    "static/media/MonkeyType.png": "/static/media/MonkeyType.5ffaa68e923ae2cc50c2.png",
+    "static/media/LobbyLights.png": "/static/media/LobbyLights.e03366303c38067fd5c2.png",
+    "static/media/my_photo.png": "/static/media/my_photo.7b579cc846c42e644abc.png",
+    "static/media/TankAlert.png": "/static/media/TankAlert.48deee7d6d7320c285a2.png",
+    "static/media/Resume.pdf": "/static/media/Resume.a8624f2d97144f106f5e.pdf",
+    "index.html": "/index.html",
+    "main.20991058.css.map": "/static/css/main.20991058.css.map",
+    "main.33013a61.js.map": "/static/js/main.33013a61.js.map",
+    "787.7da95b79.chunk.js.map": "/static/js/787.7da95b79.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20991058.css",
+    "static/js/main.33013a61.js"
+  ]
+}

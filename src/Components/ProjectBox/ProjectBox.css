@@ -1,0 +1,15 @@
+.Project-Box{
+    margin: 20px;
+    width: 300px;
+    height: 350px;
+    border: 1px solid #fff;
+    text-decoration: none;
+    color: #fff;
+}
+.Project-Box h3{
+}
+.Project-Box img{
+    max-width: 300px;
+    height: 300px;
+    padding: 2px;
+}

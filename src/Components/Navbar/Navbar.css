@@ -1,0 +1,32 @@
+header{
+    position: fixed;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    z-index: 1;
+}
+.Navigation-menu{
+    margin-top: 10px;
+    display: flex;
+    background-color: white;
+    box-shadow: 0px 0px 5px black;
+    border-radius: 4px;
+}
+.Navigation-menu li{
+    text-decoration: none;
+    list-style: none;
+    padding: 10px;
+    margin: 10px;
+    color: black
+}
+.Navigation-menu a{
+    text-decoration: none;
+    list-style: none;
+    color: black
+}
+.Navigation-menu li:hover{
+    background-color: black;
+    border-radius: 4px;
+    color: white;
+}

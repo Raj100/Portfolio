@@ -1,0 +1,13 @@
+.Projects{
+    padding: 100px 50px 50px 50px;
+    width: 100%;
+    background: black;
+    color: #fff;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+.Projects a{
+    text-decoration: none;
+}

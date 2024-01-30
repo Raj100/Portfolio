@@ -1,0 +1,20 @@
+.ProjectsPage{
+    padding: 100px 50px;
+    background: black;
+    color: white;
+    width: 100%;
+    min-height: 100vh;
+}
+.ProjectsPage h1{
+    text-align: center;
+}
+.ProjectsPage a{
+    color: #ffcd;
+}
+.ProjectsPage p{
+    padding: 5px;
+}
+.ProjectsPage i{
+    color: white;
+    font-size: 30px;
+}

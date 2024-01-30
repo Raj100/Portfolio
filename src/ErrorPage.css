@@ -1,0 +1,20 @@
+.Error-Page{
+    background: url("https://i.postimg.cc/13pdhhgs/0000000000000158.jpg");
+    background-size: cover;
+    height: 100vh;
+    width: 100%;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+.Error-Page button{
+    border: 1px solid white;
+    border-radius: 7px;
+    padding: 5px 10px;
+  }
+  .Error-Page button:hover{
+    border: 1px solid black;
+    background-color: #ffcd00;
+  }
